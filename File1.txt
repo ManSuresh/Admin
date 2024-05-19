@@ -1,1 +1,3 @@
 Checking conflict in multiple branchs
+Adding data to check conflit
+
